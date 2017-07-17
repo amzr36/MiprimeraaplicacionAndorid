@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">My firts aplication Andorid</string>
+    <string name="saludo_app">Welcome</string>
+    <string name="boton_app">Enter</string>
+</resources>
